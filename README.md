@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Paschal Chidera 👋
 
-<!--
-**paschalchidera13/paschalchidera13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Scientist | Aspiring Space Developer
+📍 Imo State | Based in Abuja, Nigeria
 
-Here are some ideas to get you started:
+🛰️ I build space tech from my Android phone.
+Currently tracking the LIVE International Space Station (ISS) from Abuja.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Current Project:
+- ISS LIVE TRACKER — Real-time satellite tracking using Python + Open Notify API
+
+🛠️ Skills: Python | APIs | Space Tech | GitHub
+
+🚀 Goal: To work with NASRDA / NASA — building tools for Africa from space data.
+
+📫 Connect: github.com/paschalchidera13
